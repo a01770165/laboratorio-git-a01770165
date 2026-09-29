@@ -7,3 +7,8 @@ Mi experiencia ah sido dificil, pues, deserte de ITC, me pase a  IIS pero se que
 
 ## Reflexión 
 
+¿Qué parte de la práctica te resultó más confusa y cómo la resolviste?
+La parte en equipo, en los turnos y la sincronizacion de comandos
+
+¿Cómo crees que tu equipo usará el repositorio durante las etapas de UX y UI?
+Para trabajar n conjunto
